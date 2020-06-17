@@ -1,5 +1,7 @@
 var fs = require('fs');
-var answerline = "Thomas Hardy"
+var answerline = "Eamin Ahmed"
+
+// PUT YOUR ANSWERLINE WHERE EAMIN AHMED IS
 
 var data = fs.readFile('index.txt', 'utf-8', function(err, data) {
     if (err) throw err;
@@ -34,7 +36,7 @@ var data = fs.readFile('index.txt', 'utf-8', function(err, data) {
 
     fs.writeFile('index.csv', replace, 'utf-8', function(err, data) {
         if (err) throw err;
-        console.log('Done!');
+        console.log("Done! Thank you for using Eamin's Card Printer");
     });
 
     var dataArr = data.toString('utf8').split('s');
