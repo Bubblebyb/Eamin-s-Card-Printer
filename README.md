@@ -22,4 +22,6 @@ Just make sure you have [NodeJS](https://nodejs.org/en/download/) installed on y
 * You're almost done! After you type in your command, the card printer will create an index.csv file. You can now import that into Anki or Quizlet.
 * The printer isn't perfect, you'll probably have to delete some useless cards or edit them every time you do this.
 
+#### Feel free to improve further upon this to create an actual command line tool or anything else!
+
  
