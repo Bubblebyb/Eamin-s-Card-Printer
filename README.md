@@ -4,9 +4,11 @@ An Automated Quiz Bowl Card Printer
 
 ### Now Card Printer Really Goin BRRRRRRRRRRR
 
-This printer takes the fundamentals of [Robert Cordon's Original](https://drive.google.com/file/d/13Fwlw12VGM0xOcp8svfm9j8xEJJT5hSo/view) but automates just about every step. All credit goes to him for the idea
+This printer takes the fundamentals of [Robert Condron's Original](https://drive.google.com/file/d/13Fwlw12VGM0xOcp8svfm9j8xEJJT5hSo/view) but automates just about every step. All credit goes to him for the idea
 
 If you have any trouble, message me on discord at bubblebyb#4513
+
+#### This works on all operating systems including Android or ChromeOS. DM me if you need a Chromebook tutorial
 
 Prerequisites:
 Just make sure you have [NodeJS](https://nodejs.org/en/download/) installed on your computer or else it won't work.
