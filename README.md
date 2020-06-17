@@ -15,7 +15,7 @@ Just make sure you have [NodeJS](https://nodejs.org/en/download/) installed on y
 
 * First go to QuizDB and search up an answerline. Remember to lock the search to just Tossups, a few difficulties, and one category.
 * Next, presss load all next to the "X tossups loaded of X found" and press the Text File button just underneath that.
-* Now you have to download this repository as a Zip of clone it, either one works. Be sure to unzip the file if you're downloading directly.
+* Now you have to download this repository as a Zip or clone it, either one works. Be sure to unzip the file if you're downloading directly.
 * Afterwords, open Command Prompt or terminal and use the "cd" command to get to the path of the Card Printer folder. For example, if it were in my downloads folder, I would use the command 
 <code> cd downloads/Eamin-s-Card-Printer-master </code>
 * Now use your File Explorer application to navigate into that folder. Open "app.js" with Notepad or your editor of choice and replace "Eamin Ahmed" on the second line with your answerline of choice.
