@@ -1,0 +1,12 @@
+{
+  "name": "nodecards",
+  "version": "1.0.0",
+  "description": "A text formatter for the Card Printer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bubblebyb",
+  "license": "ISC",
+  "dependencies": {}
+}
