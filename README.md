@@ -8,7 +8,7 @@ This printer takes the fundamentals of [Robert Conrdon's Original](https://drive
 
 If you have any trouble, message me on discord at bubblebyb#4513
 
-## This works on all operating systems including Android or ChromeOS. DM me if you need a Chromebook tutorial
+#### This works on all operating systems including Android or ChromeOS. DM me if you need a Chromebook tutorial
 
 Prerequisites:
 Just make sure you have [NodeJS](https://nodejs.org/en/download/) installed on your computer or else it won't work.
